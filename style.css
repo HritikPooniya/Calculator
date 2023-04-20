@@ -1,0 +1,38 @@
+
+  .main{
+    background-image: url(img/grid.jpg);
+  }
+  .flex{
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+  
+    align-items : center;
+  
+   
+  }
+  
+  .button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+    
+  }
+  .row{
+    margin: 8px 0;
+    
+  }
+  .row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 15px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+ 
+  
