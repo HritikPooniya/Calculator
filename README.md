@@ -14,3 +14,5 @@ Evaluate is function in JAVASCRIPT which solve the mathematical string directly 
 Similary we control if user press '=' sign then it means he wants the ans or solution the we just evaluate the string and give the output.
 
 If user press C that means we have to clear the screen means we have to return the empty string.
+
+Demo LINK:  -  https://hritikpooniya.github.io/Calculator/
